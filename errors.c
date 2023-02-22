@@ -45,7 +45,7 @@ int _eputchar(char c)
  * _putfd - writes the character c to given fd
  * @c: The character to print
  * @fd: The filedescriptor to write to
- *
+ * 345
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
  */
